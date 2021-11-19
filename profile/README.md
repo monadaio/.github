@@ -1,4 +1,4 @@
-<img src="twitter-banner.png" alt="banner" width="70%">
+![banner](../Twitter_Banner4.png)
 
 MonadAIO is a cloud solution to sneaker botting :cloud:
 
